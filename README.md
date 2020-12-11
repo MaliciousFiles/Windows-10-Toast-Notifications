@@ -1,3 +1,7 @@
+> # :warning: This repository is no longer being actively maintained.
+> Please check out the new official [WinToaster](https://github.com/MaliciousFiles/WinToaster) repository instead.
+
+
 # Windows 10 Toast Notifications
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjithurjacob%2FWindows-10-Toast-Notifications.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjithurjacob%2FWindows-10-Toast-Notifications?ref=badge_shield) [![HitCount](http://hits.dwyl.io/jithurjacob/Windows-10-Toast-Notifications.svg)](http://hits.dwyl.io/jithurjacob/Windows-10-Toast-Notifications) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
